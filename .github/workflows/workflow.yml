@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Hello Action
-        uses: hensou/hello-action@main
+        uses: hensou/hello-action
